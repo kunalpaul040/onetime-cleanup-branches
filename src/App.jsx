@@ -6,7 +6,7 @@ function App() {
 
     return (
       <>        
-        <h1>Welcome to the React App HotfixChanges 1</h1>
+        <h1>Welcome to the React App HotfixChanges 2</h1>
         <Signup/>
       </>
     );
